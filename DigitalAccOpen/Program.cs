@@ -14,6 +14,7 @@ namespace DigitalAccOpen
     {
         public static void Main(string[] args)
         {
+            //hi
             CreateWebHostBuilder(args).Build().Run();
         }
 
